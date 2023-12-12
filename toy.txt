@@ -1,0 +1,26 @@
+
+0x06  #init r0, 6
+0x40  #add r0 , r0
+0x91  #addi r0, 1
+0x97  #addi r1, -1
+
+0x76  #st r1, r2
+0x99  #addi r2, 1
+0x93  #addi r0, -1
+0x5d  #sub r3, r1
+
+0xcc  #bgt r3, 0 
+0x9e  #addi r3, -2
+
+0x9d  #addi r3, 1
+0xb7  #set r1, r3
+0x31  #init r3, 1
+0xd7  #blt0r0, 8
+
+0x86  #ld r1, r2
+
+0xad  #steal r3, r1
+0x93  #addi r0, -1
+
+0x52  #sub r0, r2
+#0xff  #halt

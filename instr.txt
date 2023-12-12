@@ -1,0 +1,22 @@
+#Parity counter
+#initialize all registers to 0
+
+0x08  #init r0, 8
+0x40  #add r0 , r0
+
+0x86  #ld r1, r2
+
+0xad  #steal r3, r1
+0x93  #addi r0, -1
+0xd4  #bltzr0, 4
+
+0x18  #init r1, 8
+0x45  #add r1, r1
+0x45  #add r1, r1
+0x46  #add r1, r2
+0x7d  #st r3, r1
+0x99  #addi r2, 1
+0xb1  #set r0, r1
+0x52  #sub r0, r2
+0xde  #bltzr0, 14
+#0xff  #halt

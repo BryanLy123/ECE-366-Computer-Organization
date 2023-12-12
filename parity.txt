@@ -1,0 +1,45 @@
+#Every register init to 0 if not already
+0x08  #init r0, 8
+0x40  #add r0 , r0
+0x40  #add r0, r0
+0x93  #addi r0, -1
+0x95  #addi r1, 1
+
+0x76  #st r1, r2
+0x99  #addi r2, 1
+0x93  #addi r0, -1
+0x5d  #sub r3, r1
+
+0xcc  #bgt r3, 0 (skips 1 instruction)
+0x9e  #addi r3, -2
+
+0x9d  #addi r3, 1
+0xb7  #set r1, r3
+0x30  #init r3, 0
+0xd7  #blt0r0, 7
+
+#Parity counter
+#initialize all registers to 0
+0x20  #init r2, 0
+0x30  #init r3, 0
+0x08  #init r0, 8
+0x40  #add r0 , r0
+0x42  #add r0, r2
+
+0x86  #ld r1, r2
+
+0xad  #steal r3, r1
+0x93  #addi r0, -1
+0xd0  #bltzr0, 0
+
+0x18  #init r1, 8
+0x45  #add r1, r1
+0x45  #add r1, r1
+0xb1  #set r0, r1
+0x46  #add r1, r2
+0x7d  #st r3, r1
+0x92  #addi r0, -2
+0x52  #sub r0, r2
+0x99  #addi r2, 1
+0xdf  #bltzr0, 15
+#0xff  #halt
