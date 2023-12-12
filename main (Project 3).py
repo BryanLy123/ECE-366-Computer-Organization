@@ -1,3 +1,6 @@
+# Program for ECE 366 Computer Organization Project 3
+# This program is associated with instr.txt, parity.txt, toy.txt
+
 #A function to classify machine code
 
 def identification(code2bin):
