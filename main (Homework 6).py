@@ -3,6 +3,8 @@
 #Homework 6: MIPS ASM Simulator
 #05 October 2022
 
+#This program is associated with temp.asm and trail.asm
+
 selection = val = PC = currPC = 0
 instr_id = {}
 label_id = {}
