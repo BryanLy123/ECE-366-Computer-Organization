@@ -1,3 +1,6 @@
+# ECE 366 Computer Organization Homework 4 Program
+# Conversion of binary values to integers and distinguishing values and memory addresses
+
 n = r = y = c = d =p = p1 = f = 0
 mem = 0x2000 #memory address for alternating values
 par = 0x2100 #memory address for parity 
