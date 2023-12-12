@@ -1,3 +1,7 @@
+# Project 4 program for ECE 366 Computer Organization
+# This program utilizes the files of P4.asm and P4.txt as inputs 
+# log.txt displays the overall output of the program
+
 import math
 import random
 
