@@ -1,0 +1,2005 @@
+Cache Data
+DM Cache with 8 sets, block size of 64 Bytes
+Memory Address
+hex: 0x00002098
+binary: 00000000000000000010000010011000
+Tag: 00000000000000000010000
+Set: 010
+Offset: 011000
+Hits/Misses: 0/1
+Hit Percentage: 0.0%
+---------
+Memory Address
+hex: 0x00002094
+binary: 00000000000000000010000010010100
+Tag: 00000000000000000010000
+Set: 010
+Offset: 010100
+HIT!
+Reading from offset 010100
+
+LRU Bookkeeping: Hit in block 2
+Tag: 16
+Set: 2
+Updating LCU count...
+Hits/Misses: 1/1
+Hit Percentage: 50.0%
+---------
+Memory Address
+hex: 0x00002090
+binary: 00000000000000000010000010010000
+Tag: 00000000000000000010000
+Set: 010
+Offset: 010000
+HIT!
+Reading from offset 010000
+
+LRU Bookkeeping: Hit in block 2
+Tag: 16
+Set: 2
+Updating LCU count...
+Hits/Misses: 2/1
+Hit Percentage: 66.67%
+---------
+Memory Address
+hex: 0x0000208c
+binary: 00000000000000000010000010001100
+Tag: 00000000000000000010000
+Set: 010
+Offset: 001100
+HIT!
+Reading from offset 001100
+
+LRU Bookkeeping: Hit in block 2
+Tag: 16
+Set: 2
+Updating LCU count...
+Hits/Misses: 3/1
+Hit Percentage: 75.0%
+---------
+Memory Address
+hex: 0x00002088
+binary: 00000000000000000010000010001000
+Tag: 00000000000000000010000
+Set: 010
+Offset: 001000
+HIT!
+Reading from offset 001000
+
+LRU Bookkeeping: Hit in block 2
+Tag: 16
+Set: 2
+Updating LCU count...
+Hits/Misses: 4/1
+Hit Percentage: 80.0%
+---------
+Memory Address
+hex: 0x00002084
+binary: 00000000000000000010000010000100
+Tag: 00000000000000000010000
+Set: 010
+Offset: 000100
+HIT!
+Reading from offset 000100
+
+LRU Bookkeeping: Hit in block 2
+Tag: 16
+Set: 2
+Updating LCU count...
+Hits/Misses: 5/1
+Hit Percentage: 83.33%
+---------
+Memory Address
+hex: 0x00002080
+binary: 00000000000000000010000010000000
+Tag: 00000000000000000010000
+Set: 010
+Offset: 000000
+HIT!
+Reading from offset 000000
+
+LRU Bookkeeping: Hit in block 2
+Tag: 16
+Set: 2
+Updating LCU count...
+Hits/Misses: 6/1
+Hit Percentage: 85.71%
+---------
+Memory Address
+hex: 0x0000207c
+binary: 00000000000000000010000001111100
+Tag: 00000000000000000010000
+Set: 001
+Offset: 111100
+Hits/Misses: 6/2
+Hit Percentage: 75.0%
+---------
+Memory Address
+hex: 0x00002078
+binary: 00000000000000000010000001111000
+Tag: 00000000000000000010000
+Set: 001
+Offset: 111000
+HIT!
+Reading from offset 111000
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 7/2
+Hit Percentage: 77.78%
+---------
+Memory Address
+hex: 0x00002074
+binary: 00000000000000000010000001110100
+Tag: 00000000000000000010000
+Set: 001
+Offset: 110100
+HIT!
+Reading from offset 110100
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 8/2
+Hit Percentage: 80.0%
+---------
+Memory Address
+hex: 0x00002070
+binary: 00000000000000000010000001110000
+Tag: 00000000000000000010000
+Set: 001
+Offset: 110000
+HIT!
+Reading from offset 110000
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 9/2
+Hit Percentage: 81.82%
+---------
+Memory Address
+hex: 0x0000206c
+binary: 00000000000000000010000001101100
+Tag: 00000000000000000010000
+Set: 001
+Offset: 101100
+HIT!
+Reading from offset 101100
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 10/2
+Hit Percentage: 83.33%
+---------
+Memory Address
+hex: 0x00002068
+binary: 00000000000000000010000001101000
+Tag: 00000000000000000010000
+Set: 001
+Offset: 101000
+HIT!
+Reading from offset 101000
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 11/2
+Hit Percentage: 84.62%
+---------
+Memory Address
+hex: 0x00002064
+binary: 00000000000000000010000001100100
+Tag: 00000000000000000010000
+Set: 001
+Offset: 100100
+HIT!
+Reading from offset 100100
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 12/2
+Hit Percentage: 85.71%
+---------
+Memory Address
+hex: 0x00002060
+binary: 00000000000000000010000001100000
+Tag: 00000000000000000010000
+Set: 001
+Offset: 100000
+HIT!
+Reading from offset 100000
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 13/2
+Hit Percentage: 86.67%
+---------
+Memory Address
+hex: 0x0000205c
+binary: 00000000000000000010000001011100
+Tag: 00000000000000000010000
+Set: 001
+Offset: 011100
+HIT!
+Reading from offset 011100
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 14/2
+Hit Percentage: 87.5%
+---------
+Memory Address
+hex: 0x00002058
+binary: 00000000000000000010000001011000
+Tag: 00000000000000000010000
+Set: 001
+Offset: 011000
+HIT!
+Reading from offset 011000
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 15/2
+Hit Percentage: 88.24%
+---------
+Memory Address
+hex: 0x00002054
+binary: 00000000000000000010000001010100
+Tag: 00000000000000000010000
+Set: 001
+Offset: 010100
+HIT!
+Reading from offset 010100
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 16/2
+Hit Percentage: 88.89%
+---------
+Memory Address
+hex: 0x00002050
+binary: 00000000000000000010000001010000
+Tag: 00000000000000000010000
+Set: 001
+Offset: 010000
+HIT!
+Reading from offset 010000
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 17/2
+Hit Percentage: 89.47%
+---------
+Memory Address
+hex: 0x0000204c
+binary: 00000000000000000010000001001100
+Tag: 00000000000000000010000
+Set: 001
+Offset: 001100
+HIT!
+Reading from offset 001100
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 18/2
+Hit Percentage: 90.0%
+---------
+Memory Address
+hex: 0x00002048
+binary: 00000000000000000010000001001000
+Tag: 00000000000000000010000
+Set: 001
+Offset: 001000
+HIT!
+Reading from offset 001000
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 19/2
+Hit Percentage: 90.48%
+---------
+Memory Address
+hex: 0x00002044
+binary: 00000000000000000010000001000100
+Tag: 00000000000000000010000
+Set: 001
+Offset: 000100
+HIT!
+Reading from offset 000100
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 20/2
+Hit Percentage: 90.91%
+---------
+Memory Address
+hex: 0x00002040
+binary: 00000000000000000010000001000000
+Tag: 00000000000000000010000
+Set: 001
+Offset: 000000
+HIT!
+Reading from offset 000000
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 21/2
+Hit Percentage: 91.3%
+---------
+Memory Address
+hex: 0x0000203c
+binary: 00000000000000000010000000111100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 111100
+Hits/Misses: 21/3
+Hit Percentage: 87.5%
+---------
+Memory Address
+hex: 0x00002038
+binary: 00000000000000000010000000111000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 111000
+HIT!
+Reading from offset 111000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 22/3
+Hit Percentage: 88.0%
+---------
+Memory Address
+hex: 0x00002034
+binary: 00000000000000000010000000110100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 110100
+HIT!
+Reading from offset 110100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 23/3
+Hit Percentage: 88.46%
+---------
+Memory Address
+hex: 0x00002030
+binary: 00000000000000000010000000110000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 110000
+HIT!
+Reading from offset 110000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 24/3
+Hit Percentage: 88.89%
+---------
+Memory Address
+hex: 0x0000202c
+binary: 00000000000000000010000000101100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 101100
+HIT!
+Reading from offset 101100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 25/3
+Hit Percentage: 89.29%
+---------
+Memory Address
+hex: 0x00002028
+binary: 00000000000000000010000000101000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 101000
+HIT!
+Reading from offset 101000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 26/3
+Hit Percentage: 89.66%
+---------
+Memory Address
+hex: 0x00002024
+binary: 00000000000000000010000000100100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 100100
+HIT!
+Reading from offset 100100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 27/3
+Hit Percentage: 90.0%
+---------
+Memory Address
+hex: 0x00002020
+binary: 00000000000000000010000000100000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 100000
+HIT!
+Reading from offset 100000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 28/3
+Hit Percentage: 90.32%
+---------
+Memory Address
+hex: 0x00002000
+binary: 00000000000000000010000000000000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 000000
+HIT!
+Reading from offset 000000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 29/3
+Hit Percentage: 90.62%
+---------
+Memory Address
+hex: 0x00002000
+binary: 00000000000000000010000000000000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 000000
+HIT!
+Reading from offset 000000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 30/3
+Hit Percentage: 90.91%
+---------
+Memory Address
+hex: 0x00002004
+binary: 00000000000000000010000000000100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 000100
+HIT!
+Reading from offset 000100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 31/3
+Hit Percentage: 91.18%
+---------
+Memory Address
+hex: 0x00002008
+binary: 00000000000000000010000000001000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 001000
+HIT!
+Reading from offset 001000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 32/3
+Hit Percentage: 91.43%
+---------
+Memory Address
+hex: 0x00002100
+binary: 00000000000000000010000100000000
+Tag: 00000000000000000010000
+Set: 100
+Offset: 000000
+Hits/Misses: 32/4
+Hit Percentage: 88.89%
+---------
+Memory Address
+hex: 0x00002004
+binary: 00000000000000000010000000000100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 000100
+HIT!
+Reading from offset 000100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 33/4
+Hit Percentage: 89.19%
+---------
+Memory Address
+hex: 0x00002004
+binary: 00000000000000000010000000000100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 000100
+HIT!
+Reading from offset 000100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 34/4
+Hit Percentage: 89.47%
+---------
+Memory Address
+hex: 0x00002008
+binary: 00000000000000000010000000001000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 001000
+HIT!
+Reading from offset 001000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 35/4
+Hit Percentage: 89.74%
+---------
+Memory Address
+hex: 0x0000200c
+binary: 00000000000000000010000000001100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 001100
+HIT!
+Reading from offset 001100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 36/4
+Hit Percentage: 90.0%
+---------
+Memory Address
+hex: 0x00002128
+binary: 00000000000000000010000100101000
+Tag: 00000000000000000010000
+Set: 100
+Offset: 101000
+HIT!
+Reading from offset 101000
+
+LRU Bookkeeping: Hit in block 4
+Tag: 16
+Set: 4
+Updating LCU count...
+Hits/Misses: 37/4
+Hit Percentage: 90.24%
+---------
+Memory Address
+hex: 0x00002008
+binary: 00000000000000000010000000001000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 001000
+HIT!
+Reading from offset 001000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 38/4
+Hit Percentage: 90.48%
+---------
+Memory Address
+hex: 0x00002008
+binary: 00000000000000000010000000001000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 001000
+HIT!
+Reading from offset 001000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 39/4
+Hit Percentage: 90.7%
+---------
+Memory Address
+hex: 0x0000200c
+binary: 00000000000000000010000000001100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 001100
+HIT!
+Reading from offset 001100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 40/4
+Hit Percentage: 90.91%
+---------
+Memory Address
+hex: 0x00002010
+binary: 00000000000000000010000000010000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 010000
+HIT!
+Reading from offset 010000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 41/4
+Hit Percentage: 91.11%
+---------
+Memory Address
+hex: 0x00002158
+binary: 00000000000000000010000101011000
+Tag: 00000000000000000010000
+Set: 101
+Offset: 011000
+Hits/Misses: 41/5
+Hit Percentage: 89.13%
+---------
+Memory Address
+hex: 0x0000200c
+binary: 00000000000000000010000000001100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 001100
+HIT!
+Reading from offset 001100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 42/5
+Hit Percentage: 89.36%
+---------
+Memory Address
+hex: 0x0000200c
+binary: 00000000000000000010000000001100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 001100
+HIT!
+Reading from offset 001100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 43/5
+Hit Percentage: 89.58%
+---------
+Memory Address
+hex: 0x00002010
+binary: 00000000000000000010000000010000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 010000
+HIT!
+Reading from offset 010000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 44/5
+Hit Percentage: 89.8%
+---------
+Memory Address
+hex: 0x00002014
+binary: 00000000000000000010000000010100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 010100
+HIT!
+Reading from offset 010100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 45/5
+Hit Percentage: 90.0%
+---------
+Memory Address
+hex: 0x00002190
+binary: 00000000000000000010000110010000
+Tag: 00000000000000000010000
+Set: 110
+Offset: 010000
+Hits/Misses: 45/6
+Hit Percentage: 88.24%
+---------
+Memory Address
+hex: 0x00002010
+binary: 00000000000000000010000000010000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 010000
+HIT!
+Reading from offset 010000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 46/6
+Hit Percentage: 88.46%
+---------
+Memory Address
+hex: 0x00002010
+binary: 00000000000000000010000000010000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 010000
+HIT!
+Reading from offset 010000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 47/6
+Hit Percentage: 88.68%
+---------
+Memory Address
+hex: 0x00002014
+binary: 00000000000000000010000000010100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 010100
+HIT!
+Reading from offset 010100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 48/6
+Hit Percentage: 88.89%
+---------
+Memory Address
+hex: 0x00002018
+binary: 00000000000000000010000000011000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 011000
+HIT!
+Reading from offset 011000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 49/6
+Hit Percentage: 89.09%
+---------
+Memory Address
+hex: 0x000021d0
+binary: 00000000000000000010000111010000
+Tag: 00000000000000000010000
+Set: 111
+Offset: 010000
+Hits/Misses: 49/7
+Hit Percentage: 87.5%
+---------
+Memory Address
+hex: 0x00002014
+binary: 00000000000000000010000000010100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 010100
+HIT!
+Reading from offset 010100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 50/7
+Hit Percentage: 87.72%
+---------
+Memory Address
+hex: 0x00002014
+binary: 00000000000000000010000000010100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 010100
+HIT!
+Reading from offset 010100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 51/7
+Hit Percentage: 87.93%
+---------
+Memory Address
+hex: 0x00002018
+binary: 00000000000000000010000000011000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 011000
+HIT!
+Reading from offset 011000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 52/7
+Hit Percentage: 88.14%
+---------
+Memory Address
+hex: 0x0000201c
+binary: 00000000000000000010000000011100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 011100
+HIT!
+Reading from offset 011100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 53/7
+Hit Percentage: 88.33%
+---------
+Memory Address
+hex: 0x00002218
+binary: 00000000000000000010001000011000
+Tag: 00000000000000000010001
+Set: 000
+Offset: 011000
+Hits/Misses: 53/8
+Hit Percentage: 86.89%
+---------
+Memory Address
+hex: 0x00002018
+binary: 00000000000000000010000000011000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 011000
+Hits/Misses: 53/9
+Hit Percentage: 85.48%
+---------
+Memory Address
+hex: 0x00002018
+binary: 00000000000000000010000000011000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 011000
+HIT!
+Reading from offset 011000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 54/9
+Hit Percentage: 85.71%
+---------
+Memory Address
+hex: 0x0000201c
+binary: 00000000000000000010000000011100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 011100
+HIT!
+Reading from offset 011100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 55/9
+Hit Percentage: 85.94%
+---------
+Memory Address
+hex: 0x00002020
+binary: 00000000000000000010000000100000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 100000
+HIT!
+Reading from offset 100000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 56/9
+Hit Percentage: 86.15%
+---------
+Memory Address
+hex: 0x00002268
+binary: 00000000000000000010001001101000
+Tag: 00000000000000000010001
+Set: 001
+Offset: 101000
+Hits/Misses: 56/10
+Hit Percentage: 84.85%
+---------
+Memory Address
+hex: 0x0000201c
+binary: 00000000000000000010000000011100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 011100
+HIT!
+Reading from offset 011100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 57/10
+Hit Percentage: 85.07%
+---------
+Memory Address
+hex: 0x0000201c
+binary: 00000000000000000010000000011100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 011100
+HIT!
+Reading from offset 011100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 58/10
+Hit Percentage: 85.29%
+---------
+Memory Address
+hex: 0x00002020
+binary: 00000000000000000010000000100000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 100000
+HIT!
+Reading from offset 100000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 59/10
+Hit Percentage: 85.51%
+---------
+Memory Address
+hex: 0x00002024
+binary: 00000000000000000010000000100100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 100100
+HIT!
+Reading from offset 100100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 60/10
+Hit Percentage: 85.71%
+---------
+Memory Address
+hex: 0x000022c0
+binary: 00000000000000000010001011000000
+Tag: 00000000000000000010001
+Set: 011
+Offset: 000000
+Hits/Misses: 60/11
+Hit Percentage: 84.51%
+---------
+Memory Address
+hex: 0x00002020
+binary: 00000000000000000010000000100000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 100000
+HIT!
+Reading from offset 100000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 61/11
+Hit Percentage: 84.72%
+---------
+Memory Address
+hex: 0x00002020
+binary: 00000000000000000010000000100000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 100000
+HIT!
+Reading from offset 100000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 62/11
+Hit Percentage: 84.93%
+---------
+Memory Address
+hex: 0x00002024
+binary: 00000000000000000010000000100100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 100100
+HIT!
+Reading from offset 100100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 63/11
+Hit Percentage: 85.14%
+---------
+Memory Address
+hex: 0x00002028
+binary: 00000000000000000010000000101000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 101000
+HIT!
+Reading from offset 101000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 64/11
+Hit Percentage: 85.33%
+---------
+Memory Address
+hex: 0x00002320
+binary: 00000000000000000010001100100000
+Tag: 00000000000000000010001
+Set: 100
+Offset: 100000
+Hits/Misses: 64/12
+Hit Percentage: 84.21%
+---------
+Memory Address
+hex: 0x00002024
+binary: 00000000000000000010000000100100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 100100
+HIT!
+Reading from offset 100100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 65/12
+Hit Percentage: 84.42%
+---------
+Memory Address
+hex: 0x00002024
+binary: 00000000000000000010000000100100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 100100
+HIT!
+Reading from offset 100100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 66/12
+Hit Percentage: 84.62%
+---------
+Memory Address
+hex: 0x00002028
+binary: 00000000000000000010000000101000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 101000
+HIT!
+Reading from offset 101000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 67/12
+Hit Percentage: 84.81%
+---------
+Memory Address
+hex: 0x0000202c
+binary: 00000000000000000010000000101100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 101100
+HIT!
+Reading from offset 101100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 68/12
+Hit Percentage: 85.0%
+---------
+Memory Address
+hex: 0x00002388
+binary: 00000000000000000010001110001000
+Tag: 00000000000000000010001
+Set: 110
+Offset: 001000
+Hits/Misses: 68/13
+Hit Percentage: 83.95%
+---------
+Memory Address
+hex: 0x00002028
+binary: 00000000000000000010000000101000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 101000
+HIT!
+Reading from offset 101000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 69/13
+Hit Percentage: 84.15%
+---------
+Memory Address
+hex: 0x00002028
+binary: 00000000000000000010000000101000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 101000
+HIT!
+Reading from offset 101000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 70/13
+Hit Percentage: 84.34%
+---------
+Memory Address
+hex: 0x0000202c
+binary: 00000000000000000010000000101100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 101100
+HIT!
+Reading from offset 101100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 71/13
+Hit Percentage: 84.52%
+---------
+Memory Address
+hex: 0x00002030
+binary: 00000000000000000010000000110000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 110000
+HIT!
+Reading from offset 110000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 72/13
+Hit Percentage: 84.71%
+---------
+Memory Address
+hex: 0x000023f8
+binary: 00000000000000000010001111111000
+Tag: 00000000000000000010001
+Set: 111
+Offset: 111000
+Hits/Misses: 72/14
+Hit Percentage: 83.72%
+---------
+Memory Address
+hex: 0x0000202c
+binary: 00000000000000000010000000101100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 101100
+HIT!
+Reading from offset 101100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 73/14
+Hit Percentage: 83.91%
+---------
+Memory Address
+hex: 0x0000202c
+binary: 00000000000000000010000000101100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 101100
+HIT!
+Reading from offset 101100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 74/14
+Hit Percentage: 84.09%
+---------
+Memory Address
+hex: 0x00002030
+binary: 00000000000000000010000000110000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 110000
+HIT!
+Reading from offset 110000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 75/14
+Hit Percentage: 84.27%
+---------
+Memory Address
+hex: 0x00002034
+binary: 00000000000000000010000000110100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 110100
+HIT!
+Reading from offset 110100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 76/14
+Hit Percentage: 84.44%
+---------
+Memory Address
+hex: 0x00002470
+binary: 00000000000000000010010001110000
+Tag: 00000000000000000010010
+Set: 001
+Offset: 110000
+Hits/Misses: 76/15
+Hit Percentage: 83.52%
+---------
+Memory Address
+hex: 0x00002030
+binary: 00000000000000000010000000110000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 110000
+HIT!
+Reading from offset 110000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 77/15
+Hit Percentage: 83.7%
+---------
+Memory Address
+hex: 0x00002030
+binary: 00000000000000000010000000110000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 110000
+HIT!
+Reading from offset 110000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 78/15
+Hit Percentage: 83.87%
+---------
+Memory Address
+hex: 0x00002034
+binary: 00000000000000000010000000110100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 110100
+HIT!
+Reading from offset 110100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 79/15
+Hit Percentage: 84.04%
+---------
+Memory Address
+hex: 0x00002038
+binary: 00000000000000000010000000111000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 111000
+HIT!
+Reading from offset 111000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 80/15
+Hit Percentage: 84.21%
+---------
+Memory Address
+hex: 0x000024f0
+binary: 00000000000000000010010011110000
+Tag: 00000000000000000010010
+Set: 011
+Offset: 110000
+Hits/Misses: 80/16
+Hit Percentage: 83.33%
+---------
+Memory Address
+hex: 0x00002034
+binary: 00000000000000000010000000110100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 110100
+HIT!
+Reading from offset 110100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 81/16
+Hit Percentage: 83.51%
+---------
+Memory Address
+hex: 0x00002034
+binary: 00000000000000000010000000110100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 110100
+HIT!
+Reading from offset 110100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 82/16
+Hit Percentage: 83.67%
+---------
+Memory Address
+hex: 0x00002038
+binary: 00000000000000000010000000111000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 111000
+HIT!
+Reading from offset 111000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 83/16
+Hit Percentage: 83.84%
+---------
+Memory Address
+hex: 0x0000203c
+binary: 00000000000000000010000000111100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 111100
+HIT!
+Reading from offset 111100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 84/16
+Hit Percentage: 84.0%
+---------
+Memory Address
+hex: 0x00002578
+binary: 00000000000000000010010101111000
+Tag: 00000000000000000010010
+Set: 101
+Offset: 111000
+Hits/Misses: 84/17
+Hit Percentage: 83.17%
+---------
+Memory Address
+hex: 0x00002038
+binary: 00000000000000000010000000111000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 111000
+HIT!
+Reading from offset 111000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 85/17
+Hit Percentage: 83.33%
+---------
+Memory Address
+hex: 0x00002038
+binary: 00000000000000000010000000111000
+Tag: 00000000000000000010000
+Set: 000
+Offset: 111000
+HIT!
+Reading from offset 111000
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 86/17
+Hit Percentage: 83.5%
+---------
+Memory Address
+hex: 0x0000203c
+binary: 00000000000000000010000000111100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 111100
+HIT!
+Reading from offset 111100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 87/17
+Hit Percentage: 83.65%
+---------
+Memory Address
+hex: 0x00002040
+binary: 00000000000000000010000001000000
+Tag: 00000000000000000010000
+Set: 001
+Offset: 000000
+Hits/Misses: 87/18
+Hit Percentage: 82.86%
+---------
+Memory Address
+hex: 0x00002608
+binary: 00000000000000000010011000001000
+Tag: 00000000000000000010011
+Set: 000
+Offset: 001000
+Hits/Misses: 87/19
+Hit Percentage: 82.08%
+---------
+Memory Address
+hex: 0x0000203c
+binary: 00000000000000000010000000111100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 111100
+Hits/Misses: 87/20
+Hit Percentage: 81.31%
+---------
+Memory Address
+hex: 0x0000203c
+binary: 00000000000000000010000000111100
+Tag: 00000000000000000010000
+Set: 000
+Offset: 111100
+HIT!
+Reading from offset 111100
+
+LRU Bookkeeping: Hit in block 0
+Tag: 16
+Set: 0
+Updating LCU count...
+Hits/Misses: 88/20
+Hit Percentage: 81.48%
+---------
+Memory Address
+hex: 0x00002040
+binary: 00000000000000000010000001000000
+Tag: 00000000000000000010000
+Set: 001
+Offset: 000000
+HIT!
+Reading from offset 000000
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 89/20
+Hit Percentage: 81.65%
+---------
+Memory Address
+hex: 0x00002044
+binary: 00000000000000000010000001000100
+Tag: 00000000000000000010000
+Set: 001
+Offset: 000100
+HIT!
+Reading from offset 000100
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 90/20
+Hit Percentage: 81.82%
+---------
+Memory Address
+hex: 0x000026a0
+binary: 00000000000000000010011010100000
+Tag: 00000000000000000010011
+Set: 010
+Offset: 100000
+Hits/Misses: 90/21
+Hit Percentage: 81.08%
+---------
+Memory Address
+hex: 0x00002040
+binary: 00000000000000000010000001000000
+Tag: 00000000000000000010000
+Set: 001
+Offset: 000000
+HIT!
+Reading from offset 000000
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 91/21
+Hit Percentage: 81.25%
+---------
+Memory Address
+hex: 0x00002040
+binary: 00000000000000000010000001000000
+Tag: 00000000000000000010000
+Set: 001
+Offset: 000000
+HIT!
+Reading from offset 000000
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 92/21
+Hit Percentage: 81.42%
+---------
+Memory Address
+hex: 0x00002044
+binary: 00000000000000000010000001000100
+Tag: 00000000000000000010000
+Set: 001
+Offset: 000100
+HIT!
+Reading from offset 000100
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 93/21
+Hit Percentage: 81.58%
+---------
+Memory Address
+hex: 0x00002048
+binary: 00000000000000000010000001001000
+Tag: 00000000000000000010000
+Set: 001
+Offset: 001000
+HIT!
+Reading from offset 001000
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 94/21
+Hit Percentage: 81.74%
+---------
+Memory Address
+hex: 0x00002740
+binary: 00000000000000000010011101000000
+Tag: 00000000000000000010011
+Set: 101
+Offset: 000000
+Hits/Misses: 94/22
+Hit Percentage: 81.03%
+---------
+Memory Address
+hex: 0x00002044
+binary: 00000000000000000010000001000100
+Tag: 00000000000000000010000
+Set: 001
+Offset: 000100
+HIT!
+Reading from offset 000100
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 95/22
+Hit Percentage: 81.2%
+---------
+Memory Address
+hex: 0x00002044
+binary: 00000000000000000010000001000100
+Tag: 00000000000000000010000
+Set: 001
+Offset: 000100
+HIT!
+Reading from offset 000100
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 96/22
+Hit Percentage: 81.36%
+---------
+Memory Address
+hex: 0x00002048
+binary: 00000000000000000010000001001000
+Tag: 00000000000000000010000
+Set: 001
+Offset: 001000
+HIT!
+Reading from offset 001000
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 97/22
+Hit Percentage: 81.51%
+---------
+Memory Address
+hex: 0x0000204c
+binary: 00000000000000000010000001001100
+Tag: 00000000000000000010000
+Set: 001
+Offset: 001100
+HIT!
+Reading from offset 001100
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 98/22
+Hit Percentage: 81.67%
+---------
+Memory Address
+hex: 0x000027e8
+binary: 00000000000000000010011111101000
+Tag: 00000000000000000010011
+Set: 111
+Offset: 101000
+Hits/Misses: 98/23
+Hit Percentage: 80.99%
+---------
+Memory Address
+hex: 0x00002048
+binary: 00000000000000000010000001001000
+Tag: 00000000000000000010000
+Set: 001
+Offset: 001000
+HIT!
+Reading from offset 001000
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 99/23
+Hit Percentage: 81.15%
+---------
+Memory Address
+hex: 0x00002048
+binary: 00000000000000000010000001001000
+Tag: 00000000000000000010000
+Set: 001
+Offset: 001000
+HIT!
+Reading from offset 001000
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 100/23
+Hit Percentage: 81.3%
+---------
+Memory Address
+hex: 0x0000204c
+binary: 00000000000000000010000001001100
+Tag: 00000000000000000010000
+Set: 001
+Offset: 001100
+HIT!
+Reading from offset 001100
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 101/23
+Hit Percentage: 81.45%
+---------
+Memory Address
+hex: 0x00002050
+binary: 00000000000000000010000001010000
+Tag: 00000000000000000010000
+Set: 001
+Offset: 010000
+HIT!
+Reading from offset 010000
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 102/23
+Hit Percentage: 81.6%
+---------
+Memory Address
+hex: 0x00002898
+binary: 00000000000000000010100010011000
+Tag: 00000000000000000010100
+Set: 010
+Offset: 011000
+Hits/Misses: 102/24
+Hit Percentage: 80.95%
+---------
+Memory Address
+hex: 0x0000204c
+binary: 00000000000000000010000001001100
+Tag: 00000000000000000010000
+Set: 001
+Offset: 001100
+HIT!
+Reading from offset 001100
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 103/24
+Hit Percentage: 81.1%
+---------
+Memory Address
+hex: 0x0000204c
+binary: 00000000000000000010000001001100
+Tag: 00000000000000000010000
+Set: 001
+Offset: 001100
+HIT!
+Reading from offset 001100
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 104/24
+Hit Percentage: 81.25%
+---------
+Memory Address
+hex: 0x00002050
+binary: 00000000000000000010000001010000
+Tag: 00000000000000000010000
+Set: 001
+Offset: 010000
+HIT!
+Reading from offset 010000
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 105/24
+Hit Percentage: 81.4%
+---------
+Memory Address
+hex: 0x00002054
+binary: 00000000000000000010000001010100
+Tag: 00000000000000000010000
+Set: 001
+Offset: 010100
+HIT!
+Reading from offset 010100
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 106/24
+Hit Percentage: 81.54%
+---------
+Memory Address
+hex: 0x00002950
+binary: 00000000000000000010100101010000
+Tag: 00000000000000000010100
+Set: 101
+Offset: 010000
+Hits/Misses: 106/25
+Hit Percentage: 80.92%
+---------
+Memory Address
+hex: 0x00002050
+binary: 00000000000000000010000001010000
+Tag: 00000000000000000010000
+Set: 001
+Offset: 010000
+HIT!
+Reading from offset 010000
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 107/25
+Hit Percentage: 81.06%
+---------
+Memory Address
+hex: 0x00002050
+binary: 00000000000000000010000001010000
+Tag: 00000000000000000010000
+Set: 001
+Offset: 010000
+HIT!
+Reading from offset 010000
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 108/25
+Hit Percentage: 81.2%
+---------
+Memory Address
+hex: 0x00002054
+binary: 00000000000000000010000001010100
+Tag: 00000000000000000010000
+Set: 001
+Offset: 010100
+HIT!
+Reading from offset 010100
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 109/25
+Hit Percentage: 81.34%
+---------
+Memory Address
+hex: 0x00002058
+binary: 00000000000000000010000001011000
+Tag: 00000000000000000010000
+Set: 001
+Offset: 011000
+HIT!
+Reading from offset 011000
+
+LRU Bookkeeping: Hit in block 1
+Tag: 16
+Set: 1
+Updating LCU count...
+Hits/Misses: 110/25
+Hit Percentage: 81.48%
+---------
+Memory Address
+hex: 0x00002a10
+binary: 00000000000000000010101000010000
+Tag: 00000000000000000010101
+Set: 000
+Offset: 010000
+Hits/Misses: 110/26
+Hit Percentage: 80.88%
+---------
+Memory Address
+hex: 0x00002ad8
+binary: 00000000000000000010101011011000
+Tag: 00000000000000000010101
+Set: 011
+Offset: 011000
+Hits/Misses: 110/27
+Hit Percentage: 80.29%
+---------
