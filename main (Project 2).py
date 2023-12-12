@@ -1,3 +1,6 @@
+# ECE 366 Computer Organization Project 2
+# This program is associated with Assembly.py, Machine.py, project files ending with V1 and V2, and files beginning with Part of Question
+
 #A function to classify machine code
 
 def identification(code2bin):
